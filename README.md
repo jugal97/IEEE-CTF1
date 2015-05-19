@@ -1,5 +1,5 @@
 # WEB
-solutions of hackthissite
+#solutions of hackthissite
 Solutions of basic challenges of hackthissite.org
 1.  solution of basic 1:
     open the page source. search for html tags linking basic 1 challenge. we will find password there in comments.
