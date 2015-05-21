@@ -20,3 +20,4 @@ main()
       puts(str3);
       getch();
 }
+//output is given by [♠♣
