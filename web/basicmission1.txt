@@ -1,1 +1,1 @@
-
+open the page source. search for html tags linking basic 1 challenge. we will find password there in comments.
