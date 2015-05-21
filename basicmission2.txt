@@ -1,2 +1,0 @@
-In this the password entered is compared with password present in unencrypted text file. But he forgot to upload the 
-    text file. so password field will remain blank.
