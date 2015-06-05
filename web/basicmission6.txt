@@ -1,0 +1,3 @@
+it is encrypted using logic
+ascii of encrypted = n + ascii of plaintext alphabet
+the password is 9ca3541e
